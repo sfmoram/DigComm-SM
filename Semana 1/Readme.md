@@ -1,7 +1,7 @@
-Objetivo del Laboratorio:
+#Objetivo del Laboratorio:
 Analizar y replicar los tonos de llamadas telefónicas fijas de distintos países del mundo.
 
-Instrucciones:
+##Instrucciones:
 
 Documentación proporcionada: 
 Revise el archivo adjunto, en el que encontrará las configuraciones específicas de los tonos para llamadas telefónicas fijas de diferentes países.
