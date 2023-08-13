@@ -8,6 +8,8 @@ Comunicaciones Digitales
 
 ### Semana 01 - Muestreo:
 * 1.1 Slides [[CANVA]](https://www.canva.com/design/DAFqn4zJHf8/-nZidbOzIgvU3h2T5ZPJyw/edit?utm_content=DAFqn4zJHf8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 1.2 Laboratorio tonos [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%201/VARIOUS%20TONES%20USED%20IN%20NATIONAL.pdf)
+* 1.3 Laboratorio instrucciones
 
 ### Semana 02 - Procesamiento en el dominio del espacio:
 * 3.1 Slides [[CANVA]](https://www.canva.com/design/DAFayV2Lxf4/TTACxfP5UlW6kvo7u_5p5A/edit?utm_content=DAFayV2Lxf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
