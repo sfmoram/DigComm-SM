@@ -14,8 +14,8 @@ Este archivo deberá ser capaz de reproducir los tonos correspondientes a BusyTo
 Debe presentar un único archivo en formato GNURADIO.
 Es importante que verifique que los tonos se escuchen correctamente antes de realizar su entrega.
 
-**Modalidad de trabajo: **
+**Modalidad de trabajo:**
 Esta es una tarea individual. 
 
-**Fecha y lugar de entrega: **
+**Fecha y lugar de entrega:**
 Presente su archivo la próxima semana durante nuestra sesión de laboratorio.
