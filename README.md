@@ -1,5 +1,5 @@
-# PDI - SM
-Procesamiento Digital de Imágenes
+# DigComm - SM
+Comunicaciones Digitales
 
 ## Organización del curso
 
@@ -23,14 +23,3 @@ Procesamiento Digital de Imágenes
 * 3.7 Laboratorio Operaciones Lógicas (Solución) [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Lab_3_Desaf%C3%ADo_Operaciones_L%C3%B3gicas.ipynb)
 * 3.8 Laboratorio Ecualización [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2003/Lab_4_PDI_Ecualizaci%C3%B3n.ipynb)
 * 3.9 Cuestionario [[Forms]](https://forms.gle/3snQ7eJfRHd1rQ367)
-
-### Semana 04 - Procesamiento de imágenes a color:
-* 4.1 Slides [[CANVA]](https://www.canva.com/design/DAFbbaGv2a4/i6toDBfpf8Y8sTUvak0Yig/edit?utm_content=DAFbbaGv2a4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* 4.2 Laboratorio Segmentación a color [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Lab_5_Segmentaci%C3%B3n_Color.ipynb)
-* 4.3 Laboratorio Segmentación a color usando k-means [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Laboratorio_Segmentaci%C3%B3nColor_k_means.ipynb)
-* 4.4 Laboratorio de Mejoramiento de color [[Colab]](https://github.com/sfmoram/PDI-SM/blob/main/Semana%2004/Lab_6_PDI_Mejoramiento_Color.ipynb)
-
-### Clase 02:
-* 2.1 PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
-* 2.2 PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
-* 2.3 Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr?usp=sharing)
