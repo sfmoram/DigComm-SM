@@ -14,4 +14,4 @@ Comunicaciones Digitales
 
 ### Semana 02 - Modulaciones por pulso:
 * 2.1 Slides 
-* 2.2 Laboratorio Aplicación PWM [[PDF]]()
+* 2.2 Laboratorio Aplicación PWM [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2002/Laboratorio_1___Aplicaci%C3%B3n_de_PWM__Pulse_Width_Modulation_.pdf)
