@@ -18,4 +18,4 @@ Comunicaciones Digitales
 
 ### Semana 03 - Cuantización:
 * 2.1 Slides [[CANVA]](https://www.canva.com/design/DAFsCh179gc/eYsK9QemDegF-HvSlwfzSA/edit?utm_content=DAFsCh179gc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* 2.2 Laboratorio Conversión A/D [[PDF]]()
+* 2.2 Laboratorio Conversión A/D [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Laboratorio_2___ADC.pdf)
