@@ -13,5 +13,9 @@ Comunicaciones Digitales
 * 1.4 Cuestionario [[Forms]](https://docs.google.com/forms/d/e/1FAIpQLSdgnY9b8yPBY-okbJBbFgnLF_c_xPybdUOIILO2Gn7bukWW3g/viewform?usp=sf_link)
 
 ### Semana 02 - Modulaciones por pulso:
-* 2.1 Slides 
+* 2.1 Slides [[CANVA]](https://www.canva.com/design/DAFrc-XyuHw/iVpAirnupUGP9kHZEzEHCA/edit?utm_content=DAFrc-XyuHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 2.2 Laboratorio Aplicación PWM [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2002/Laboratorio_1___Aplicaci%C3%B3n_de_PWM__Pulse_Width_Modulation_.pdf)
+
+### Semana 03 - Cuantización:
+* 2.1 Slides [[CANVA]](https://www.canva.com/design/DAFsCh179gc/eYsK9QemDegF-HvSlwfzSA/edit?utm_content=DAFsCh179gc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 2.2 Laboratorio Conversión A/D [[PDF]]()
