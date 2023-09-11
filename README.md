@@ -17,7 +17,15 @@ Comunicaciones Digitales
 * 2.2 Laboratorio Aplicación PWM [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2002/Laboratorio_1___Aplicaci%C3%B3n_de_PWM__Pulse_Width_Modulation_.pdf)
 
 ### Semana 03 - Cuantización:
-* 2.1 Slides [[CANVA]](https://www.canva.com/design/DAFsCh179gc/eYsK9QemDegF-HvSlwfzSA/edit?utm_content=DAFsCh179gc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* 2.2 Laboratorio Conversión A/D [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Laboratorio_2___ADC.pdf)
-* 2.3 Ejercicios Cierre de Corte [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Ejercicios%20Primer%20Corte.pdf)
-* 2.4 Solución de ejercicios [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Ejercicios%20Primer%20Corte%20-%20Soluci%C3%B3n.pdf)
+* 3.1 Slides [[CANVA]](https://www.canva.com/design/DAFsCh179gc/eYsK9QemDegF-HvSlwfzSA/edit?utm_content=DAFsCh179gc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 3.2 Laboratorio Conversión A/D [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Laboratorio_2___ADC.pdf)
+* 3.3 Ejercicios Cierre de Corte [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Ejercicios%20Primer%20Corte.pdf)
+* 3.4 Solución de ejercicios [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Ejercicios%20Primer%20Corte%20-%20Soluci%C3%B3n.pdf)
+
+### Semana 04 - Introducción Modulaciones - ASK:
+* 4.1 Slides [[PPT]]()
+* 4.2 Laboratorio ASK/FSK [[PDF]]()
+
+### Semana 05 - FSK, PSK, BPSK, QPSK:
+* 5.1 Slides [[PPT]]()
+* 5.2 Taller Modulaciones [[PDF]]()
