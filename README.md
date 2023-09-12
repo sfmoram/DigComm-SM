@@ -25,7 +25,7 @@ Comunicaciones Digitales
 ### Semana 04 - Introducción Modulaciones - ASK:
 * 4.1 Slides [[PPT]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2004/Modulaci%C3%B3n%20Digital%20hasta%20ASK.pptx)
 * 4.2 Laboratorio ASK/FSK [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2004/Gu%C3%ADa%20de%20Laboratorio%20ASKoFSK.docx)
-* 4.3 Simulación en GNURadio [[PDF]]()
+* 4.3 Simulación en GNURadio [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2004/LABORATORIO%20ASK%20-%20GNURADIO.pdf)
 
 ### Semana 05 - FSK, PSK, BPSK, QPSK:
 * 5.1 Slides [[PPT]]()
