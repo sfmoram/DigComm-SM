@@ -23,8 +23,9 @@ Comunicaciones Digitales
 * 3.4 Solución de ejercicios [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2003/Ejercicios%20Primer%20Corte%20-%20Soluci%C3%B3n.pdf)
 
 ### Semana 04 - Introducción Modulaciones - ASK:
-* 4.1 Slides [[PPT]]()
+* 4.1 Slides [[PPT]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2004/Modulaci%C3%B3n%20Digital%20hasta%20ASK.pptx)
 * 4.2 Laboratorio ASK/FSK [[PDF]]()
+* 4.3 Simulación en GNURadio [[PDF]]()
 
 ### Semana 05 - FSK, PSK, BPSK, QPSK:
 * 5.1 Slides [[PPT]]()
