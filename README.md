@@ -29,4 +29,4 @@ Comunicaciones Digitales
 
 ### Semana 05 - FSK, PSK, BPSK, QPSK:
 * 5.1 Slides [[PPT]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2005/Modulaci%C3%B3n%20Digital%20FSK%2C%20PSK%2C%20BPSK%2C%20QPSK.pptx)
-* 5.2 Taller Modulaciones [[PDF]]()
+* 5.2 Taller Modulaciones [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2005/Taller%20Modulaci%C3%B3n%20FSK%20y%20PSK.pdf)
