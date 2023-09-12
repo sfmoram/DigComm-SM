@@ -28,5 +28,5 @@ Comunicaciones Digitales
 * 4.3 Simulación en GNURadio [[PDF]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2004/LABORATORIO%20ASK%20-%20GNURADIO.pdf)
 
 ### Semana 05 - FSK, PSK, BPSK, QPSK:
-* 5.1 Slides [[PPT]]()
+* 5.1 Slides [[PPT]](https://github.com/sfmoram/DigComm-SM/blob/main/Semana%2005/Modulaci%C3%B3n%20Digital%20FSK%2C%20PSK%2C%20BPSK%2C%20QPSK.pptx)
 * 5.2 Taller Modulaciones [[PDF]]()
